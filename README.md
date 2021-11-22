@@ -2,7 +2,7 @@
 Expressao regular
 
 ## Feature
-— Entendendo alguns conceitos das expressões regulares em java script
+- Entendendo alguns conceitos das expressões regulares em java script
 — Utilização das funções test, exec, replace, match
 
 - Função teste vai retornar true ou false, em relação a sua expressão regular.
